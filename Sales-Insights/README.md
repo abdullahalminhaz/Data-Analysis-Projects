@@ -68,12 +68,6 @@ To develop an interactive dashboard that:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./dashboard.png)
-
----
-
 ## 🔍 Key Insights
 
 - Delhi NCR generates the highest revenue (~520M)
